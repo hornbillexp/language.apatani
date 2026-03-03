@@ -1,261 +1,261 @@
 ---
-title: Tanw Dictionary - C
+title: Tanw Dictionary - Ch
 layout: dictionary
-alphabet: C
+alphabet: Ch
 devanagari: च
-ipa: c
+ipa: ch
 ---
 
-__ca__  /ca/ _vr._  ascend; go up; rise (of the sun); sprout (of a plant)   
+__cha__  /cha/ _vr._  ascend; go up; rise (of the sun); sprout (of a plant)   
 
 
-__caa__ /caa/ _vr._  step on       
+__chaa__ /chaa/ _vr._  step on        
 
 
-__cáa__ /cáa/ _vr._  split; slit       
+__cháa__ /cháa/ _vr._  split; slit        
 
 
-__càa__ /càa/ _vr._  take paddy from the granary       
+__chàa__ /chàa/ _vr._  take paddy from the granary        
 
 
-__caabañ__ /caabã/  _v._  crush something underground with the feet       
+__chaabañ__ /chaabã/  _v._  crush something underground with the feet        
 
 
-__caaje'__ /caaɟeɁ/  _v._  step on something       
+__chaaje'__ /chaaɟeɁ/  _v._  step on something        
 
 
-__caambyó__ /caambjó/ _n._  war; dispute; battle  [_syn._  gyambo]    
+__chaambyó__ /chaambyó/ _n._  war; dispute; battle  [_syn._  gyambo]     
 
 
-__caañcú__ /caãcú/  _n._  cooking tripod        
+__chaañchú__ /chaãchú/  _n._  cooking tripod         
 
 
-__caañkò__ /caãkò/  _n._  a piece of flat object, like a piece of broken earthen pot        
+__chaañkò__ /chaãkò/  _n._  a piece of flat object, like a piece of broken earthen pot         
 
 
-__caañxá-diixá__ /caãxá-diixá/ _adj._  barren; unproductive        
+__chaañxá-diixá__ /chaãxá-diixá/ _adj._  barren; unproductive         
 
 
-__caaqe'-caaqe'__ /caaŋeɁ-caaŋeɁ/ _adj._  intense; stinging       
+__chaaqe'-chaaqe'__ /chaaŋeɁ-chaaŋeɁ/ _adj._  intense; stinging        
 
 
-__caarò__ /caarò/ _adj._  big (of pot) [_ant._  cazó]    
+__chaarò__ /chaarò/ _adj._  big (of pot) [_ant._  chazó]     
 
 
-__caaza' poro__ /caaɲaɁ poro/ _n._  outer space       
+__chaaza' poro__ /chaaɲaɁ poro/ _n._  outer space        
 
 
-__cahi'__ /cahiɁ/ _adj._  miserly [_n._  miser]   
+__chahi'__ /chahiɁ/ _adj._  miserly [_n._  miser]   
 
 
-__cañcañ__  /cãcã/ _adj._  cold (to the touch); chilly; gelid       
+__chañchañ__  /chãchã/ _adj._  cold (to the touch); chilly; gelid        
 
 
-__cañci'-doci__ /cãciɁ-doci/ _adj._  nagging; vexatiuos; troublesome (of a person)        
+__chañchi'-dochi__ /chãchiɁ-dochi/ _adj._  nagging; vexatious; troublesome (of a person)         
 
 
-__cañdw metw__  /cãdɨ metɨ/ _n._  an agricultural ritual of the Apatanis        
+__chañdw metw__  /chãdɨ metɨ/ _n._  an agricultural ritual of the Apatanis         
 
 
-__cañta__ /cãta/ _n._  rice flake (esp. of newly harvested paddy)       
+__chañta__ /chãta/ _n._  rice flake (esp. of newly harvested paddy)        
 
 
-__Cañtuñ__  /cãtũ/ _n._  primordian protective deity of the Apatanis       
+__chañtuñ__  /chãtũ/ _n._  primordial protective deity of the Apatanis        
 
 
-__cañtw__ /cãtɨ/ _n._  earth       
+__chañtw__ /chãtɨ/ _n._  earth        
 
 
-__cañtw-dotw__ /cãtɨ-dotɨ/ _n._  universe; cosmos        
+__chañtw-dotw__ /chãtɨ-dotɨ/ _n._  universe; cosmos         
 
 
-__car__ /car/ _vr._  boil        
+__char__ /char/ _vr._  boil         
 
 
-__carxw__ /carxɨ/ _v._  boil properly; boil fully       
+__charxw__ /charxɨ/ _v._  boil properly; boil fully        
 
 
-__cayiñ-doyiñ__ /cajĩ-dojĩ/ _n._  autumn        
+__chayiñ-doyiñ__ /chajĩ-dojĩ/ _n._  autumn         
 
 
-__cazó__  /caɲó/ _adj._  small (of pot) [_ant._  cáarò]   
+__chazó__  /chaɲó/ _adj._  small (of pot) [_ant._  cháarò]   
 
 
-__ce'__ /ceɁ/ _vr._  argue; contend; claim; wrangle        
+__che'__ /cheɁ/ _vr._  argue; contend; claim; wrangle         
 
 
-__ce'__ /ceɁ/ _vr._  cut (as with scissor)        
+__che'__ /cheɁ/ _vr._  cut (as with scissors)         
 
 
-__ce'__ /ceɁ/ _vr._  press or squeeze; sandwich; compress       
+__che'__ /cheɁ/ _vr._  press or squeeze; sandwich; compress        
 
 
-__ce'ce'__	/ceɁceɁ/ _adj._	stubborn; obstinate
+__che'che'__ /cheɁcheɁ/ _adj._ stubborn; obstinate
 
 
-__ce'ga__ /ceɁga/ _adj._  argumentative; quarrelsome; belligerant; captious       
+__che'ga__ /cheɁga/ _adj._  argumentative; quarrelsome; belligerent; captious        
 
 
-__ce'su__ /ceɁsu/ _v._  argue; contend; claim; wrangle        
+__che'su__ /cheɁsu/ _v._  argue; contend; claim; wrangle         
 
 
-__ce'xo'__  /ceɁxoɁ/ _v._  diasgree; differ; diverge from        
+__che'xo'__  /cheɁxoɁ/ _v._  disagree; differ; diverge from         
 
 
-__cee__ /cee/ _adj._  small amount; few; scarce; scant; meagre        
+__chee__ /chee/ _adj._  small amount; few; scarce; scant; meagre         
 
 
-__ceeda__ /ceeda/ _part._ almost; close to        
+__cheeda__ /cheeda/ _part._ almost; close to         
 
 
-__ceñ__ /cẽ/ _vr._  bundle; bunch; clump        
+__cheñ__ /chẽ/ _vr._  bundle; bunch; clump         
 
 
-__ceñxo__ /cẽxo/ _n._  scab (of a wound); crust       
+__cheñxo__ /chẽxo/ _n._  scab (of a wound); crust        
 
 
-__cí__  /cí/ _vr._  claim (ownership)       
+__chí__  /chí/ _vr._  claim (ownership)        
 
 
-__cì__  /cì/ _vr._  bite        
+__chì__  /chì/ _vr._  bite         
 
 
-__ci'__ /ciɁ/ _vr._  hurl (as a javelin)       
+__chi'__ /chiɁ/ _vr._  hurl (as a javelin)        
 
 
-__ci'__ /ciɁ/ _vr._  move fast (as a fish do)        
+__chi'__ /chiɁ/ _vr._  move fast (as a fish do)         
 
 
-__ci'__ /ciɁ/ _vr._  hold (with both arms)        
+__chi'__ /chiɁ/ _vr._  hold (with both arms)         
 
 
-__ci'pw__ /ciɁpɨ/ _n._  frame of the bamboo sliding door        
+__chi'pw__ /chiɁpɨ/ _n._  frame of the bamboo sliding door         
 
 
-__ci'ri__ /ciɁri/ _n._  ceremonial antique sword        
+__chi'ri__ /chiɁri/ _n._  ceremonial antique sword         
 
 
-__ciba__  /ciba/ _n._  small cane bag usually used for carrying tiffin       
+__chiba__  /chiba/ _n._  small cane bag usually used for carrying tiffin        
 
 
-__cibyw__ /cibjɨ/ _adj._  smart; quick; agile [_syn._  byací]   
+__chibyw__ /chibjɨ/ _adj._  smart; quick; agile [_syn._  byachí]   
 
 
-__ciciñ__ /cicĩ/ _n._  loin loom       
+__chichiñ__ /chichĩ/ _n._  loin loom        
 
 
-__ciciñ__ /cicĩ/ _n._  a variety of ritual (esp. to ward off malevolent spirit) [_Ant._  twgò]    
+__chichiñ__ /chichĩ/ _n._  a variety of ritual (esp. to ward off malevolent spirit) [_Ant._  twgò]     
 
 
-__cifù__  /ciʎù/ _n._  little forktail (_Enicurus scouleri_)       
+__chifù__  /chiʎù/ _n._  little forktail (_Enicurus scouleri_)        
 
 
-__cigu__  /cigu/ _n._  source (of a stream)       
+__chigu__  /chigu/ _n._  source (of a stream)        
 
 
-__cíi__ /cíigu/ _vr._  be extinct        
+__chíi__ /chíigu/ _vr._  be extinct         
 
 
-__ciiñ__  /ciĩ/ _v._  weave       
+__chiiñ__  /chiĩ/ _v._  weave        
 
 
-__ciirw__ /ciirɨ/ _n._  edge; brim  [_syn._  lwwrw]   
+__chiirw__ /chiirɨ/ _n._  edge; brim  [_syn._  lwwrw]   
 
 
-__cikañ__ /cikã/ _part._ like; similar    
+__chikañ__ /chikã/ _part._ like; similar     
 
 
-__cíkù__ /cíkù/ _n._ pocket; pouch (_syn._ ciru')
+__chíkù__ /chíkù/ _n._ pocket; pouch (_syn._ chiru')
 
 
-__cimiń__ /cimĩ/ _adj._  docile; humble; modest        
+__chimiń__ /chimĩ/ _adj._  docile; humble; modest         
 
 
-__ciñ__ /cĩ/ _v._  know; comprehend; understand        
+__chiñ__ /chĩ/ _v._  know; comprehend; understand         
 
 
-__ciru'__ /ciruɁ/ _n._  pocket; pouch [_syn._  cíkù]    
+__chiru'__ /chiruɁ/ _n._  pocket; pouch [_syn._  chíkù]     
 
 
-__cixo__  /cixo/ _adj._  clever; smart; successful person        
+__chixo__  /chixo/ _adj._  clever; smart; successful person         
 
 
-__cixw-cixo__ /cixɨ-cixo/ _n._  a variety of bird; black drongo (_Dicrurus macrocercus_)        
+__chixw-chixo__ /chixɨ-chixo/ _n._  a variety of bird; black drongo (_Dicrurus macrocercus_)         
 
 
-__cizu'__ /ciɲuɁ/ _n._  soot; impure carbon particles resulting from the incomplete combustion of wood        
+__chizu'__ /chiɲuɁ/ _n._  soot; impure carbon particles resulting from the incomplete combustion of wood         
 
 
-__co'myo'__ /coɁmjoɁ/ _adv._  slowly; silently; stealthily 
+__cho'myo'__ /choɁmjoɁ/ _adv._  slowly; silently; stealthily 
 
 
-__cofo paka'__ /coʎo pakaɁ/ _n._ small metallic plate, esp. to serve side dishes
+__chofo paka'__ /choʎo pakaɁ/ _n._ small metallic plate, esp. to serve side dishes
 
 
-__coga-coga__ /coga-coga/ _adv._  waddling; manner of walking with short steps and swaying motion       
+__choga-choga__ /choga-choga/ _adv._  waddling; manner of walking with short steps and swaying motion        
 
 
-__cogiñ__ /cogĩ/ _v._  squat; crouch       
+__chogiñ__ /chogĩ/ _v._  squat; crouch        
 
 
-__colo__  /colo/ _n._  a decorative element of babó        
+__cholo__  /cholo/ _n._  a decorative element of babó         
 
 
-__còo__ /còo/ _vr._  bounce (as a ball); hop on one foot (of a human)        
+__chòo__ /chòo/ _vr._  bounce (as a ball); hop on one foot (of a human)         
 
 
-__còofa__ /còoʎa/ _v._  limp        
+__chòofa__ /chòoʎa/ _v._  limp         
 
 
-__cor__ /cor/ _vr._  spray; squirt; sprinkle       
+__chor__ /chor/ _vr._  spray; squirt; sprinkle        
 
 
-__corjiñ__  /corɟĩ/ _adj._  straight        
+__chorjiñ__  /chorɟĩ/ _adj._  straight         
 
 
-__corkè__ /corkè/ _adj._  strong (as of taste)       
+__chorkè__ /chorkè/ _adj._  strong (as of taste)        
 
 
-__corkw__ /corkɨ/ _adj._  smart; strong; rigid        
+__chorkw__ /chorkɨ/ _adj._  smart; strong; rigid         
 
 
-__cortiñ__  /cortĩ/ _n._  waterfall       
+__chortiñ__  /chortĩ/ _n._  waterfall        
 
 
-__cu'__ /cuɁ/ _vr._  spit; expectorate       
+__chu'__ /chuɁ/ _vr._  spit; expectorate        
 
 
-__cuca__ /cuca/  _n._  an element of a ritual altar        
+__chucha__ /chucha/  _n._  an element of a ritual altar         
 
 
-__cudu-cubo__ /cudu-cubo/ _adj._  imprudent; reckless       
+__chudu-chubo__ /chudu-chubo/ _adj._  imprudent; reckless        
 
 
-__cuha__  /cuha/ _v._  plunge; plummet; nosedive       
+__chuha__  /chuha/ _v._  plunge; plummet; nosedive        
 
 
-__cukvr__ /cukǝr/ _n._  sputum  [_syn._  takvr]   
+__chukvr__ /chukǝr/ _n._  sputum  [_syn._  takvr]   
 
 
-__culu__  /culu/ _n._  a variety of children's game        
+__chulu__  /chulu/ _n._  a variety of children's game         
 
 
-__cuu__ /cuu/ _vr._  move with head forward        
+__chuu__ /chuu/ _vr._  move with head forward         
 
 
-__cuuki__ /cuuki/ _v._  stoop [_syn._  cuukw]   
+__chuuki__ /chuuki/ _v._  stoop [_syn._  chuukw]   
 
 
-__cuuki'__  /cuukiɁ/ _n._  metallic poker; safety pin  [_syn._  ufañ kuti]   
+__chuuki'__  /chuukiɁ/ _n._  metallic poker; safety pin  [_syn._  ufañ kuti]   
 
 
-__cuuku__ /cuuku/ _adj._  upside down       
+__chuuku__ /chuuku/ _adj._  upside down        
 
 
-__cuuxa__ /cuuxa/ _n._  small bamboo container over the fireplace       
+__chuuxa__ /chuuxa/ _n._  small bamboo container over the fireplace        
 
 
-__cuuzi__ /cuuɲi/ _n._  water beetle  [_syn._  yasi anw]    
+__chuuzi__ /chuuɲi/ _n._  water beetle  [_syn._  yasi anw]     
 
 
-__cwgw-caga__ /cɯgɯ-caga/ _adj._  lean and thin [_syn._  rwgw-raga]   
+__chwgw-chaga__ /chɯgɯ-chaga/ _adj._  lean and thin [_syn._  rwgw-raga]
