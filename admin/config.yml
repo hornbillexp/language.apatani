@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: hornbillexp/language.apatani
+  branch: gh-pages
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "dictionary"
+    label: "Dictionary"
+    folder: "content/dictionary"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Word", name: "title", widget: "string" }
+      - { label: "IPA", name: "ipa", widget: "string", required: false }
+      - { label: "Part of Speech", name: "pos", widget: "string", required: false }
+      - { label: "Audio", name: "audio", widget: "file", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
